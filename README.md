@@ -84,27 +84,27 @@ Provider-specific:
 	<th>Maintained by</th>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://bitbucket.org" alt="Bitbucket" width="16">&nbsp;&nbsp;
+	<td><img src="icons/bitbucket-logo-blue.svg" alt="Bitbucket" width="16">&nbsp;&nbsp;
 		<a href="http://github.com/fancyguy/opauth-bitbucket">Bitbucket</a></td>
 	<td>fancyguy</td>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://disqus.com" alt="Disqus" width="16">&nbsp;&nbsp;
+	<td><img src="icons/disqus.png" alt="Disqus" width="16">&nbsp;&nbsp;
 		<a href="https://github.com/rasa/opauth-disqus">Disqus</a></td>
 	<td>rasa</td>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://do.com" alt="Do" width="16">&nbsp;&nbsp;
+	<td><img src="icons/do_logo.png" alt="Do" width="16">&nbsp;&nbsp;
 		<a href="https://github.com/arbales/opauth-do">Do</a></td>
 	<td>arbales</td>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://facebook.com" alt="Facebook">&nbsp;&nbsp;
+	<td><img src="icons/facebook.png" alt="Facebook">&nbsp;&nbsp;
 		<a href="https://github.com/opauth/facebook"><strong>Facebook</strong></a></td>
 	<td>uzyn</td>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://www.flickr.com" alt="Flickr" width="16" height="16">&nbsp;&nbsp;
+	<td><img src="icons/flickr_logo.png" alt="Flickr" width="16" height="16">&nbsp;&nbsp;
 		<a href="https://github.com/pocket7878/opauth-flickr">Flickr</a></td>
 	<td>pocket7878</td>
 </tr>

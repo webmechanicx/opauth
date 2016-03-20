@@ -89,42 +89,42 @@ Provider-specific:
 	<td>fancyguy</td>
 </tr>
 <tr>
-	<td><img src="icons/disqus.png" alt="Disqus" width="16">&nbsp;&nbsp;
+	<td><img src="icons/disqus.png" width="103" alt="Disqus">&nbsp;&nbsp;
 		<a href="https://github.com/rasa/opauth-disqus">Disqus</a></td>
 	<td>rasa</td>
 </tr>
 <tr>
-	<td><img src="icons/do_logo.png" alt="Do" width="16">&nbsp;&nbsp;
+	<td><img src="icons/do_logo.png" width="103" alt="Do">&nbsp;&nbsp;
 		<a href="https://github.com/arbales/opauth-do">Do</a></td>
 	<td>arbales</td>
 </tr>
 <tr>
-	<td><img src="icons/facebook.png" alt="Facebook">&nbsp;&nbsp;
+	<td><img src="icons/facebook.png" width="103" alt="Facebook">&nbsp;&nbsp;
 		<a href="https://github.com/opauth/facebook"><strong>Facebook</strong></a></td>
 	<td>uzyn</td>
 </tr>
 <tr>
-	<td><img src="icons/flickr_logo.png" alt="Flickr" width="16" height="16">&nbsp;&nbsp;
+	<td><img src="icons/flickr_logo.png" width="103" alt="Flickr" height="28">&nbsp;&nbsp;
 		<a href="https://github.com/pocket7878/opauth-flickr">Flickr</a></td>
 	<td>pocket7878</td>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://www.foursquare.com" alt="Foursquare" width="16" height="16">&nbsp;&nbsp;
+	<td><img src="http://g.etfv.co/http://www.foursquare.com" alt="Foursquare">&nbsp;&nbsp;
 		<a href="https://github.com/pocket7878/opauth-foursquare">Foursquare</a></td>
 	<td>pocket7878</td>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://github.com" alt="GitHub" width="16" height="16">&nbsp;&nbsp;
+	<td><img src="http://g.etfv.co/http://github.com" width="103" alt="GitHub">&nbsp;&nbsp;
 		<a href="https://github.com/opauth/github">GitHub</a></td>
 	<td>uzyn</td>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://google.com" alt="Google" width="16" height="16">&nbsp;&nbsp;
+	<td><img src="http://g.etfv.co/http://google.com" width="103" alt="Google">&nbsp;&nbsp;
 		<a href="https://github.com/opauth/google"><strong>Google</strong></a></td>
 	<td>uzyn</td>
 </tr>
 <tr>
-	<td><img src="http://g.etfv.co/http://instagram.com" alt="Instagram" width="16" height="16">&nbsp;&nbsp;
+	<td><img src="http://g.etfv.co/http://instagram.com" width="103" alt="Instagram">&nbsp;&nbsp;
 		<a href="https://github.com/muhdazrain/opauth-instagram">Instagram</a></td>
 	<td>muhdazrain</td>
 </tr>
